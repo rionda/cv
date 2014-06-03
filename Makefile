@@ -1,5 +1,5 @@
 LATEX = pdflatex
-MAINFILE = riondaresume
+MAINFILE = MatteoRiondato-cv
 UPLOADHOST = ssh.cs.brown.edu
 UPLOADURI = public_html/matteo_riondato_cv.pdf
 
