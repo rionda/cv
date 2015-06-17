@@ -23,8 +23,7 @@ osx: pdf
 	open $(MAINFILE).pdf
 
 upload: pdf
-	scp $(MAINFILE).pdf $(UPLOADHOST):$(UPLOADURI)
-	ssh $(UPLOADHOST) chmod o+r $(UPLOADURI)
+	rsync -e ssh --perms --chmod=F644 $(MAINFILE).pdf $(UPLOADHOST):$(UPLOADURI)
 
 view: pdf
 	acroread  -geometry 1000x1000 $(MAINFILE).pdf
