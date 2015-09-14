@@ -1,7 +1,7 @@
 LATEX = pdflatex
 MAINFILE = MatteoRiondato-cv
-UPLOADHOST = ssh.cs.brown.edu
-UPLOADURI = public_html/matteo_riondato_cv.pdf
+UPLOADHOST = riondabsd.net
+UPLOADURI = /usr/local/www/rionda.to/matteo_riondato_cv.pdf
 
 .PHONY: all check clean osx pdf upload view
 
