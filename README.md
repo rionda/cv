@@ -1,5 +1,1 @@
-
-Academic Curriculum Vitae of Matteo Riondato
-==
-
-Matteo Riondato, Ph.D.
+# Curriculum Vitae of Matteo Riondato, Ph.D
