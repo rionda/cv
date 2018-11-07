@@ -1,0 +1,9 @@
+Matteo Riondato is a research scientist at Two Sigma Investments and an adjunct
+assistant professor at Brown University. In January 2019 he will join Amherst
+College as an assistant professor. His research focus is in algorithms for
+knowledge discovery: he develops methods to analyze rich datasets, including
+graphs and time series, as fast as possible and in a statistically sound way.
+His works received the best-of-conference awards at the 2014 SIAM International
+Conference on Data Mining (SDM), the 2016 ACM SIGKDD International Conference on
+Knowledge Discovery and Data Mining (KDD), and the 2018 IEEE International
+Conference on Data Mining. He tweets @teorionda and lives at http://matteo.rionda.to .
