@@ -1,4 +1,6 @@
-# Curriculum Vitae of Matteo Riondato, Ph.D.
+# Curriculum Vitae of Matteo Riondato
 
-This CV follows the guidelines from Chapter 24 of "The Professor Is In" by Karen
+The CV follows the guidelines from Chapter 24 of "The Professor Is In" by Karen
 Kelsky, Ph.D., Three Rivers Press, 2015.
+
+Also included is a short bio.
