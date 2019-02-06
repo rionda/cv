@@ -4,8 +4,8 @@ research scientist at Two Sigma, and a postdoc at Stanford and Brown. He
 obtained his PhD in computer science from Brown. His research focuses on
 algorithms for knowledge discovery, data mining, and machine learning: he
 develops methods to analyze rich datasets, including graphs and time series,
-as fast as possible and in a statistically sound way.  His works received the
+as fast as possible and in a statistically sound way. His works received
 best-of-conference awards at the 2014 SIAM International Conference on Data
 Mining (SDM), the 2016 ACM SIGKDD International Conference on Knowledge
-Discovery and Data Mining (KDD), and the 2018 IEEE International Conference
-on Data Mining. He tweets @teorionda and lives at http://matteo.rionda.to .
+Discovery and Data Mining (KDD), and the 2018 IEEE International Conference on
+Data Mining (ICDM). He tweets @teorionda and lives at http://matteo.rionda.to.
