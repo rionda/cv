@@ -1,5 +1,5 @@
 Matteo Riondato is an assistant professor of computer science at Amherst
-college, and a visiting faculty at Brown University. Previously he was a
+College, and a visiting faculty at Brown University. Previously he was a
 research scientist at Two Sigma, and a postdoc at Stanford and Brown. He
 obtained his PhD in computer science from Brown. His research focuses on
 algorithms for knowledge discovery, data mining, and machine learning: he
