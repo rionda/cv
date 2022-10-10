@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:editing-cycles>365</meta:editing-cycles><meta:print-date>2018-08-14T14:26:00</meta:print-date><meta:creation-date>2016-10-14T10:47:00</meta:creation-date><dc:date>2022-09-24T09:56:36.240677601</dc:date><meta:editing-duration>P1DT8H45M32S</meta:editing-duration><meta:generator>LibreOffice/7.3.2.2$MacOSX_X86_64 LibreOffice_project/49f2b1bff42cfccbd8f788c8dc32c1c309559be0</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="16" meta:paragraph-count="296" meta:word-count="3874" meta:character-count="27664" meta:non-whitespace-character-count="24011"/><meta:user-defined meta:name="AppVersion">12.0000</meta:user-defined><meta:user-defined meta:name="Company">..</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><meta:editing-cycles>368</meta:editing-cycles><meta:print-date>2018-08-14T14:26:00</meta:print-date><meta:creation-date>2016-10-14T10:47:00</meta:creation-date><dc:date>2022-10-10T09:38:43.156089622</dc:date><meta:editing-duration>P1DT8H56M12S</meta:editing-duration><meta:generator>LibreOffice/7.3.2.2$MacOSX_X86_64 LibreOffice_project/49f2b1bff42cfccbd8f788c8dc32c1c309559be0</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="16" meta:paragraph-count="297" meta:word-count="3885" meta:character-count="27754" meta:non-whitespace-character-count="24091"/><meta:user-defined meta:name="AppVersion">12.0000</meta:user-defined><meta:user-defined meta:name="Company">..</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">37135</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">140721</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">24019</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">11735</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">9798</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">65913</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16305</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">148167</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">37135</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">140721</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">24017</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">48869</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">152455</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -44,7 +44,7 @@
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">8695255</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">8750695</config:config-item>
    <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddFrameOffsets" config:type="boolean">true</config:config-item>
    <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">true</config:config-item>
@@ -156,7 +156,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman1" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -1255,17 +1255,25 @@
    <style:paragraph-properties fo:margin-left="1in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:text-indent="-1in" style:auto-text-indent="false"/>
    <style:text-properties officeooo:rsid="0082ed14" officeooo:paragraph-rsid="0082ed14"/>
   </style:style>
-  <style:style style:name="P237" style:family="paragraph" style:parent-style-name="normal" style:master-page-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:page-number="1"/>
-   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P238" style:family="paragraph" style:parent-style-name="normal">
+  <style:style style:name="P237" style:family="paragraph" style:parent-style-name="normal">
    <style:paragraph-properties fo:margin-left="1in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:text-indent="-1in" style:auto-text-indent="false"/>
    <style:text-properties officeooo:paragraph-rsid="0082ed14"/>
   </style:style>
-  <style:style style:name="P239" style:family="paragraph" style:parent-style-name="normal">
+  <style:style style:name="P238" style:family="paragraph" style:parent-style-name="normal">
    <style:paragraph-properties fo:margin-left="1in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.0799in" style:contextual-spacing="false" fo:text-indent="-1in" style:auto-text-indent="false"/>
    <style:text-properties officeooo:rsid="0084add7" officeooo:paragraph-rsid="0084add7"/>
+  </style:style>
+  <style:style style:name="P239" style:family="paragraph" style:parent-style-name="normal" style:master-page-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:page-number="1"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P240" style:family="paragraph" style:parent-style-name="normal">
+   <style:paragraph-properties fo:line-height="150%" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-weight="normal" officeooo:rsid="007e0323" officeooo:paragraph-rsid="00858667" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P241" style:family="paragraph" style:parent-style-name="normal">
+   <style:paragraph-properties fo:line-height="150%"/>
+   <style:text-properties officeooo:paragraph-rsid="00858667"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties style:text-position="super 58%"/>
@@ -1909,6 +1917,9 @@
   <style:style style:name="T214" style:family="text">
    <style:text-properties officeooo:rsid="0082ed14"/>
   </style:style>
+  <style:style style:name="T215" style:family="text">
+   <style:text-properties officeooo:rsid="00858667"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1in" fo:margin-bottom="0.5in" fo:margin-left="1in" fo:margin-right="1in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="22860" style:layout-grid-base-height="0.1665in" style:layout-grid-ruby-height="0in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.1457in" style:layout-grid-snap-to="true" style:footnote-max-height="0in" loext:margin-gutter="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="0%" style:color="#000000"/>
@@ -1946,7 +1957,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P237">MATTEO RIONDATO</text:p>
+   <text:p text:style-name="P239">MATTEO RIONDATO</text:p>
    <text:p text:style-name="P3">Curriculum vitae</text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3">Science Center, <text:span text:style-name="T192">Room C214</text:span><text:line-break/>25 East Drive<text:line-break/>Amherst, MA 01002, <text:span text:style-name="T80">USA</text:span></text:p>
@@ -1986,7 +1997,7 @@
    <text:p text:style-name="P223"/>
    <text:p text:style-name="P11">Journal Articles</text:p>
    <text:p text:style-name="P222"/>
-   <text:p text:style-name="P238"><text:span text:style-name="T214">to appear<text:tab/></text:span><text:span text:style-name="T213">S. Haddadan, C. Menghini, </text:span><text:span text:style-name="T20">M. Riondato</text:span><text:span text:style-name="T64">, and E. Upfal. </text:span><text:span text:style-name="T76">Reducing Polarization and Increasing Diverse Navigability in Graph by Inserting Edges and Swapping Edge Weights. </text:span><text:span text:style-name="T148">Data Mining and Knowledge Discovery</text:span><text:span text:style-name="T151">. Special Issue on Fairness and Bias in AI, </text:span><text:span text:style-name="T150">DOI: 10.1007/s10618-022-00875-8</text:span></text:p>
+   <text:p text:style-name="P237"><text:span text:style-name="T214">to appear<text:tab/></text:span><text:span text:style-name="T213">S. Haddadan, C. Menghini, </text:span><text:span text:style-name="T20">M. Riondato</text:span><text:span text:style-name="T64">, and E. Upfal. </text:span><text:span text:style-name="T76">Reducing Polarization and Increasing Diverse Navigability in Graph by Inserting Edges and Swapping Edge Weights. </text:span><text:span text:style-name="T148">Data Mining and Knowledge Discovery</text:span><text:span text:style-name="T151">. Special Issue on Fairness and Bias, </text:span><text:span text:style-name="T150">DOI: 10.1007/s10618-022-00875-8</text:span></text:p>
    <text:p text:style-name="P235"><text:span text:style-name="T204">2022</text:span><text:span text:style-name="T198"><text:tab/>* S. Jenkins, S. Walzer-Goldfeld, and </text:span><text:span text:style-name="T18">M. Riondato</text:span><text:span text:style-name="T73">. SPEck: Mining Statistically-significant Sequential Patterns Efficiently with Exact Sampling. </text:span><text:span text:style-name="T41">Data Mining and Knowledge Discovery</text:span><text:span text:style-name="T112">, </text:span><text:span text:style-name="T116">36</text:span><text:span text:style-name="T118">(4)</text:span><text:span text:style-name="T113">:</text:span><text:span text:style-name="T117">1575</text:span><text:span text:style-name="T100">–</text:span><text:span text:style-name="T117">1599</text:span></text:p>
    <text:p text:style-name="P221"><text:span text:style-name="T197">2022</text:span><text:tab/><text:span text:style-name="T158">* L. Pellegrina, C. Cousins, F. Vandin, and </text:span><text:span text:style-name="T12">M. Riondato</text:span><text:span text:style-name="T60">. McRapper: Monte-Carlo Rademacher Averages for Poset Families and Approximate Pattern Mining. </text:span><text:span text:style-name="T40">ACM Transactions on Knowledge Discovery from Data</text:span><text:span text:style-name="T109">, </text:span><text:span text:style-name="T111">16(6):124:1</text:span><text:span text:style-name="T100">–</text:span><text:span text:style-name="T111">124:29</text:span></text:p>
    <text:p text:style-name="P171"><text:span text:style-name="T174">2021</text:span><text:tab/><text:span text:style-name="T182">* </text:span>M. A. U. Nasir, C. Aslay, G. De Francisci Morales, <text:span text:style-name="T187">and </text:span><text:span text:style-name="T7">M. Riondato</text:span><text:span text:style-name="T50">. TipTap: Approximate Mining of Frequent k-Subgraph Patterns in Evolving Graphs. </text:span><text:span text:style-name="T33">ACM Transactions on Knowledge Discovery from Data</text:span><text:span text:style-name="T97">, </text:span><text:span text:style-name="T108">15(3):48:1</text:span><text:span text:style-name="T100">–</text:span><text:span text:style-name="T108">48:35</text:span></text:p>
@@ -2002,7 +2013,7 @@
    <text:p text:style-name="normal"/>
    <text:p text:style-name="P4">Conference Proceedings</text:p>
    <text:p text:style-name="normal"/>
-   <text:p text:style-name="P239"><text:span text:style-name="T58">2</text:span><text:span text:style-name="T50">022<text:tab/>G. Preti, G. De Francisci Morales, and </text:span><text:span text:style-name="T7">M. Riondato</text:span><text:span text:style-name="T50">. ALICE and the Caterpillar: A More Descriptive Null Model for Assessing Data Mining Results.</text:span><text:span text:style-name="T33"> Proceedings of the 22</text:span><text:span text:style-name="T4">nd</text:span><text:span text:style-name="T33"> IEEE International Conference on Data Mining</text:span><text:span text:style-name="T97"> (ICDM),</text:span><text:span text:style-name="T33"> to appear </text:span></text:p>
+   <text:p text:style-name="P238"><text:span text:style-name="T58">2</text:span><text:span text:style-name="T50">022<text:tab/>G. Preti, G. De Francisci Morales, and </text:span><text:span text:style-name="T7">M. Riondato</text:span><text:span text:style-name="T50">. ALICE and the Caterpillar: A More Descriptive Null Model for Assessing Data Mining Results.</text:span><text:span text:style-name="T33"> Proceedings of the 22</text:span><text:span text:style-name="T4">nd</text:span><text:span text:style-name="T33"> IEEE International Conference on Data Mining</text:span><text:span text:style-name="T97"> (ICDM),</text:span><text:span text:style-name="T33"> to appear </text:span></text:p>
    <text:p text:style-name="P234"><text:span text:style-name="T58">2</text:span><text:span text:style-name="T70">022<text:tab/></text:span><text:span text:style-name="T67">* </text:span><text:span text:style-name="T70">A. Lee, S. Walzer-Goldfeld, S. Zablah, and </text:span><text:span text:style-name="T19">M. Riondato</text:span><text:span text:style-name="T70">. A Scalable Algorithm for Balanced Sampling </text:span><text:span text:style-name="T75">(Student Abstract)</text:span><text:span text:style-name="T70">. </text:span><text:span text:style-name="T42">Proceedings of the AAAI Conference on Artificial Intelligence </text:span><text:span text:style-name="T119">(AAAI)</text:span><text:span text:style-name="T50">, </text:span><text:span text:style-name="T97">36</text:span><text:span text:style-name="T50">(11), </text:span><text:span text:style-name="T75">pp. </text:span><text:span text:style-name="T50">12991</text:span><text:span text:style-name="T66">–</text:span><text:span text:style-name="T50">12992</text:span></text:p>
    <text:p text:style-name="P174"><text:span text:style-name="T181">2021</text:span><text:span text:style-name="T182"><text:tab/>* </text:span><text:span text:style-name="T175">G. Preti, G. De Francisci Morales</text:span><text:span text:style-name="T182">, </text:span><text:span text:style-name="T187">and </text:span><text:span text:style-name="T17">M. Riondato</text:span><text:span text:style-name="T67">. </text:span><text:span text:style-name="T65">MaNIACS: Approximate Mining of Frequent Subgraph Patterns through Sampling.</text:span><text:span text:style-name="T67"> </text:span><text:span text:style-name="T30">Proceedings of the 2</text:span><text:span text:style-name="T32">7</text:span><text:span text:style-name="T5">th</text:span><text:span text:style-name="T30"> ACM SIGKDD International Conference on Knowledge Discovery and Data Mining </text:span><text:span text:style-name="T55">(KDD), </text:span><text:span text:style-name="T66">pp. 1348–1358</text:span></text:p>
    <text:p text:style-name="P173"><text:span text:style-name="T181">2021</text:span><text:tab/>* C. Cousins, C. Wohlgemuth, <text:span text:style-name="T187">and </text:span><text:span text:style-name="T7">M. Riondato</text:span><text:span text:style-name="T50">. Bavarian: Betweenness Centrality Approximation with Variance-Aware Rademacher Averages. </text:span><text:span text:style-name="T30">Proceedings of the 2</text:span><text:span text:style-name="T32">7</text:span><text:span text:style-name="T5">th</text:span><text:span text:style-name="T30"> ACM SIGKDD International Conference on Knowledge Discovery and Data Mining </text:span><text:span text:style-name="T55">(KDD), </text:span><text:span text:style-name="T66">pp. 196–206</text:span></text:p>
@@ -2033,7 +2044,7 @@
    <text:p text:style-name="normal"/>
    <text:p text:style-name="P4">Technical Reports</text:p>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P140"><text:span text:style-name="T49">2018<text:tab/></text:span><text:span text:style-name="T7">M. Riondato</text:span><text:span text:style-name="T49">.</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T49">Sharpe Ratio: Estimation, Confidence Intervals, and Hypothesis Testing. </text:span><text:span text:style-name="T28">Two Sigma Technical Report Series</text:span><text:span text:style-name="T49">, No. 2018-001. </text:span></text:p>
+   <text:p text:style-name="P140"><text:span text:style-name="T49">2018<text:tab/></text:span><text:span text:style-name="T7">M. Riondato</text:span><text:span text:style-name="T49">.</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T49">Sharpe Ratio: Estimation, Confidence Intervals, and Hypothesis Testing. </text:span><text:span text:style-name="T28">Two Sigma Technical Report Series</text:span><text:span text:style-name="T49">, No. 2018-001</text:span></text:p>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="P4">Tutorials</text:p>
    <text:p text:style-name="normal"/>
@@ -2180,6 +2191,7 @@
    <text:p text:style-name="P82"/>
    <text:p text:style-name="P71"><text:span text:style-name="T14">Student </text:span><text:span text:style-name="T16">and Intern </text:span><text:span text:style-name="T14">Supervision </text:span><text:span text:style-name="T15">(not including T</text:span><text:span text:style-name="T16">eaching </text:span><text:span text:style-name="T15">As</text:span><text:span text:style-name="T16">sistants </text:span><text:span text:style-name="T18">and Honors Students</text:span><text:span text:style-name="T15">)</text:span></text:p>
    <text:p text:style-name="P212"/>
+   <text:p text:style-name="P240"><text:span text:style-name="T176">M</text:span>ichelle Contreras Catalan, research assistant, Amherst College, Fall 2022 – Ongoing</text:p>
    <text:p text:style-name="P214">Dhyey Mavani, research assistant, Amherst College, Fall 2022 – Ongoing </text:p>
    <text:p text:style-name="P94"><text:span text:style-name="T207">Maryam Abuissa, </text:span><text:span text:style-name="T208">research assistant</text:span><text:span text:style-name="T207">, Amherst College, </text:span><text:span text:style-name="T208">Spring</text:span><text:span text:style-name="T207"> 202</text:span><text:span text:style-name="T208">2</text:span><text:span text:style-name="T209"> – Ongoing</text:span></text:p>
    <text:p text:style-name="P89">Stefan Walzer-<text:span text:style-name="T166">Goldfeld</text:span>, research assistant, Amherst College, Fall 2020 – <text:span text:style-name="T206">Summer 2022</text:span></text:p>
@@ -2190,8 +2202,8 @@
    <text:p text:style-name="P209">Maryam Abuissa, student intern, Amherst College, Summer 2021</text:p>
    <text:p text:style-name="P213"><text:span text:style-name="T156">Holden Lee</text:span>, research assistant, Amherst College, Spring 20<text:span text:style-name="T156">20</text:span> – <text:span text:style-name="T190">Spring’21</text:span></text:p>
    <text:p text:style-name="P207">Margaret Drew, student intern, Amherst College, Summer 2020</text:p>
-   <text:p text:style-name="P208">Zhiyuan Jia, research assistant, Amherst College, Summer 2019</text:p>
-   <text:p text:style-name="P70"><text:soft-page-break/>Conrad Kuklinsky, research assistant, Amherst College, Spring 2019 – <text:span text:style-name="T163">Fall 2020</text:span></text:p>
+   <text:p text:style-name="P208"><text:soft-page-break/>Zhiyuan Jia, research assistant, Amherst College, Summer 2019</text:p>
+   <text:p text:style-name="P70">Conrad Kuklinsky, research assistant, Amherst College, Spring 2019 – <text:span text:style-name="T163">Fall 2020</text:span></text:p>
    <text:p text:style-name="P77">Cyrus Cousins, research intern, Labs team, Two Sigma Investments, Summer 2018</text:p>
    <text:p text:style-name="P77">Sacha Servan-Schreiber, <text:span text:style-name="T91">research assistant</text:span>, Brown University, Spring – Fall 2018</text:p>
    <text:p text:style-name="normal"/>
@@ -2223,10 +2235,10 @@
    <text:p text:style-name="P28">IEEE ICDE ‘18, ‘17</text:p>
    <text:p text:style-name="P41">IEEE ICDM ‘<text:span text:style-name="T204">22, </text:span>‘<text:span text:style-name="T130">2</text:span><text:span text:style-name="T172">1 (Area Chair), </text:span>‘<text:span text:style-name="T130">20, </text:span>‘1<text:span text:style-name="T128">9</text:span>, ‘18 ‘16</text:p>
    <text:p text:style-name="P32"><text:span text:style-name="T85">IJCAI</text:span> ‘19</text:p>
-   <text:p text:style-name="P52">NetSci ‘<text:span text:style-name="T130">20, </text:span>‘19</text:p>
-   <text:p text:style-name="P53"><text:soft-page-break/>Ne<text:span text:style-name="T88">urIPS</text:span> ‘<text:span text:style-name="T204">22, </text:span>‘<text:span text:style-name="T130">2</text:span><text:span text:style-name="T178">1</text:span><text:span text:style-name="T130">, </text:span>‘<text:span text:style-name="T130">20, </text:span>‘19</text:p>
+   <text:p text:style-name="P52"><text:soft-page-break/>NetSci ‘<text:span text:style-name="T130">20, </text:span>‘19</text:p>
+   <text:p text:style-name="P53">Ne<text:span text:style-name="T88">urIPS</text:span> ‘<text:span text:style-name="T204">22, </text:span>‘<text:span text:style-name="T130">2</text:span><text:span text:style-name="T178">1</text:span><text:span text:style-name="T130">, </text:span>‘<text:span text:style-name="T130">20, </text:span>‘19</text:p>
    <text:p text:style-name="P49">SIAM SDM ‘<text:span text:style-name="T204">2</text:span><text:span text:style-name="T206">3 (Senior PC), </text:span>‘<text:span text:style-name="T204">22 (PC Chair) </text:span>‘<text:span text:style-name="T130">21 (Senior PC), </text:span>‘<text:span text:style-name="T130">20</text:span>, ‘19</text:p>
-   <text:p text:style-name="P45">WWW ‘<text:span text:style-name="T130">2</text:span><text:span text:style-name="T181">2</text:span><text:span text:style-name="T130"> (Senior PC), </text:span>‘<text:span text:style-name="T130">21 (Senior PC), </text:span>‘<text:span text:style-name="T130">20</text:span>, ‘19, ‘18, ‘17, ‘16</text:p>
+   <text:p text:style-name="P241">WWW ‘<text:span text:style-name="T130">2</text:span><text:span text:style-name="T215">3</text:span><text:span text:style-name="T130"> (Senior PC), </text:span>‘<text:span text:style-name="T130">2</text:span><text:span text:style-name="T181">2</text:span><text:span text:style-name="T130"> (Senior PC), </text:span>‘<text:span text:style-name="T130">21 (Senior PC), </text:span>‘<text:span text:style-name="T130">20</text:span>, ‘19, ‘18, ‘17, ‘16</text:p>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="P4">Journal Reviewing</text:p>
    <text:p text:style-name="normal"/>
@@ -2254,8 +2266,8 @@
    <text:p text:style-name="P123">The Computer Journal</text:p>
    <text:p text:style-name="P121"><text:span text:style-name="T23">VLDB Journal</text:span> (VLDBJ)</text:p>
    <text:p text:style-name="P124">The World Wide Web Journal <text:span text:style-name="T120">(WWWJ)</text:span></text:p>
-   <text:p text:style-name="normal"/>
-   <text:p text:style-name="P4"><text:soft-page-break/>Conference Reviewing </text:p>
+   <text:p text:style-name="normal"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P4">Conference Reviewing </text:p>
    <text:p text:style-name="P20">The list does not include reviews done as Program Committee member</text:p>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="P112"><text:span text:style-name="T132">LATIN‘20, STACS‘20, </text:span>MFCS‘17, SODA’17, ISAAC‘15, SIAM SDM‘15, IEEE ICDE‘15, DISC‘14, ACM WSDM‘14, WWW‘14, ICALP‘14, IEEE BigData‘13, MFCS‘13, ACM WSDM‘13, IEEE IPDPS‘12, ACM ICS‘12, RANDOM‘11</text:p>
@@ -2285,8 +2297,8 @@
    <text:p text:style-name="P28">Sigma Delta Epsilon (Graduate Women in Science) National Fellowship</text:p>
    <text:p text:style-name="P28">Grace Hopper Conference Scholarship 2016, 2017</text:p>
    <text:p text:style-name="normal"/>
-   <text:p text:style-name="normal"/>
-   <text:p text:style-name="P4"><text:soft-page-break/>DEPARTMENTAL / UNIVERSITY SERVICE</text:p>
+   <text:p text:style-name="normal"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P4">DEPARTMENTAL / UNIVERSITY SERVICE</text:p>
    <text:p text:style-name="P108"/>
    <text:p text:style-name="P233">Faculty Committee on Student Fellowships, Amherst college – Faculty Representative, 7/2022 – Ongoing</text:p>
    <text:p text:style-name="P134">Data Science Initiative Working Group, Amherst College – Dept. Representative, 1/201<text:span text:style-name="T186">9</text:span> – <text:span text:style-name="T210">O</text:span>ngoing</text:p>
@@ -2314,7 +2326,7 @@
    <text:p text:style-name="normal"><text:tab/>SIAM Activity Group on Data Mining and Analytics (SIAG/DMA)</text:p>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="normal">The latest revision of this CV is available from <text:a xlink:type="simple" xlink:href="http://matteo.rionda.to/MatteoRiondato-CV.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://matteo.rionda.to/MatteoRiondato-CV.pdf</text:a></text:p>
-   <text:p text:style-name="normal">This revision was created on <text:time style:data-style-name="N10041" text:time-value="2022-09-24T09:56:43.214977215">September 24, 2022</text:time></text:p>
+   <text:p text:style-name="normal">This revision was created on <text:time style:data-style-name="N10041" text:time-value="2022-10-10T09:38:43.362900875">October 10, 2022</text:time></text:p>
   </office:text>
  </office:body>
 </office:document>
