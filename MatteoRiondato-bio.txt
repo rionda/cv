@@ -4,7 +4,7 @@ research scientist at Two Sigma, and a postdoc at Stanford. His research focuses
 on algorithms for knowledge discovery, data mining, and machine learning: he
 develops methods to analyze rich datasets, including graphs and time series, as
 fast as possible and in a statistically sound way. He received a NSF CAREER
-award and other NSF grants. His works was recognized with best-of-conference
+award and other NSF grants. His works were recognized with best-of-conference
 awards at the 2014 SIAM International Conference on Data Mining (SDM), the 2016
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
 (KDD), the 2018 IEEE International Conference on Data Mining (ICDM), and the
