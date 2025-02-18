@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:editing-cycles>447</meta:editing-cycles><meta:print-date>2025-02-17T15:42:02.730601564</meta:print-date><meta:creation-date>2016-10-14T10:47:00</meta:creation-date><dc:date>2025-02-17T15:33:13.690007750</dc:date><meta:editing-duration>P1DT12H59M13S</meta:editing-duration><meta:generator>LibreOffice/24.8.4.2$MacOSX_X86_64 LibreOffice_project/bb3cfa12c7b1bf994ecc5649a80400d06cd71002</meta:generator><meta:printed-by>PDF files</meta:printed-by><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="18" meta:paragraph-count="332" meta:word-count="4378" meta:character-count="31484" meta:non-whitespace-character-count="27349"/><meta:user-defined meta:name="AppVersion">12.0000</meta:user-defined><meta:user-defined meta:name="Company">..</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
+ <office:meta><meta:editing-cycles>449</meta:editing-cycles><meta:print-date>2025-02-17T15:42:02.730601564</meta:print-date><meta:creation-date>2016-10-14T10:47:00</meta:creation-date><dc:date>2025-02-18T07:24:55.549200142</dc:date><meta:editing-duration>P1DT13H1M1S</meta:editing-duration><meta:generator>LibreOffice/24.8.4.2$MacOSX_X86_64 LibreOffice_project/bb3cfa12c7b1bf994ecc5649a80400d06cd71002</meta:generator><meta:printed-by>PDF files</meta:printed-by><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="18" meta:paragraph-count="332" meta:word-count="4385" meta:character-count="31534" meta:non-whitespace-character-count="27392"/><meta:user-defined meta:name="AppVersion">12.0000</meta:user-defined><meta:user-defined meta:name="Company">..</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal.dotm" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">34789</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">486389</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">40042</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">19851</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">35509</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">17604</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11765</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">45371</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">12956</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">429655</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">34789</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">40040</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">54638</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">486389</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">35507</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">503991</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -84,7 +84,7 @@
    <config:config-item config:name="DropCapPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">11626861</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">11647192</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
@@ -170,7 +170,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman1" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Arial Unicode MS" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Times New Roman2" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -1628,183 +1628,189 @@
    <style:text-properties officeooo:rsid="004bdff4"/>
   </style:style>
   <style:style style:name="T209" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00b08991" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00b1b8d8" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T210" style:family="text">
-   <style:text-properties fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00b1696d" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00b08991" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T211" style:family="text">
-   <style:text-properties style:font-name="Times New Roman1" fo:font-weight="normal" officeooo:rsid="0068347a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00b1696d" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T212" style:family="text">
-   <style:text-properties style:font-name="Times New Roman1" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00732225" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Times New Roman1" fo:font-weight="normal" officeooo:rsid="0068347a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T213" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00732225" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties style:font-name="Times New Roman1" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00732225" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T214" style:family="text">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00732225" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T215" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="0054f9c8" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T216" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="0054f9c8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0054f9c8" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T217" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="0055efb2" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0054f9c8" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T218" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="00565817" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0055efb2" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T219" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="italic" officeooo:rsid="00ad83cd" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00565817" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T220" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="00618d76" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="italic" officeooo:rsid="00ad83cd" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T221" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="005aced4" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="00618d76" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T222" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="007e0323" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="005aced4" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T223" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00946f92" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="007e0323" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T224" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="002f8abf" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00946f92" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T225" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00618d76" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="002f8abf" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T226" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="002ffc6c" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00618d76" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T227" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="002ffc6c" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T228" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00847256" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T229" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="005aced4" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="00847256" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T230" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="004bdff4" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-style="normal" officeooo:rsid="005aced4" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T231" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="004bdff4" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T232" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" officeooo:rsid="005aced4"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%"/>
   </style:style>
   <style:style style:name="T233" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="00a540e6"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" officeooo:rsid="005aced4"/>
   </style:style>
   <style:style style:name="T234" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="00565817"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="00a540e6"/>
   </style:style>
   <style:style style:name="T235" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="0058544c"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="00565817"/>
   </style:style>
   <style:style style:name="T236" style:family="text">
-   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="0053fac7"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="0058544c"/>
   </style:style>
   <style:style style:name="T237" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="004dd5b2" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" officeooo:rsid="0053fac7"/>
   </style:style>
   <style:style style:name="T238" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="00661d7f" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-style="normal" officeooo:rsid="004dd5b2" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T239" style:family="text">
-   <style:text-properties officeooo:rsid="00105b09"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="00661d7f" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T240" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00ad83cd" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties officeooo:rsid="00105b09"/>
   </style:style>
   <style:style style:name="T241" style:family="text">
-   <style:text-properties officeooo:rsid="00ad83cd"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00ad83cd" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T242" style:family="text">
-   <style:text-properties officeooo:rsid="006b8f83"/>
+   <style:text-properties officeooo:rsid="00ad83cd"/>
   </style:style>
   <style:style style:name="T243" style:family="text">
-   <style:text-properties officeooo:rsid="00b08991"/>
+   <style:text-properties officeooo:rsid="006b8f83"/>
   </style:style>
   <style:style style:name="T244" style:family="text">
-   <style:text-properties officeooo:rsid="00ade080"/>
+   <style:text-properties officeooo:rsid="00b08991"/>
   </style:style>
   <style:style style:name="T245" style:family="text">
-   <style:text-properties officeooo:rsid="00473c41"/>
+   <style:text-properties officeooo:rsid="00ade080"/>
   </style:style>
   <style:style style:name="T246" style:family="text">
-   <style:text-properties officeooo:rsid="004b4c68"/>
+   <style:text-properties officeooo:rsid="00473c41"/>
   </style:style>
   <style:style style:name="T247" style:family="text">
-   <style:text-properties officeooo:rsid="008936cb"/>
+   <style:text-properties officeooo:rsid="004b4c68"/>
   </style:style>
   <style:style style:name="T248" style:family="text">
-   <style:text-properties officeooo:rsid="00a02bbd"/>
+   <style:text-properties officeooo:rsid="008936cb"/>
   </style:style>
   <style:style style:name="T249" style:family="text">
-   <style:text-properties officeooo:rsid="00639237"/>
+   <style:text-properties officeooo:rsid="00a02bbd"/>
   </style:style>
   <style:style style:name="T250" style:family="text">
-   <style:text-properties officeooo:rsid="00ac9130"/>
+   <style:text-properties officeooo:rsid="00639237"/>
   </style:style>
   <style:style style:name="T251" style:family="text">
-   <style:text-properties officeooo:rsid="007d9b82"/>
+   <style:text-properties officeooo:rsid="00ac9130"/>
   </style:style>
   <style:style style:name="T252" style:family="text">
-   <style:text-properties officeooo:rsid="00568ca6"/>
+   <style:text-properties officeooo:rsid="007d9b82"/>
   </style:style>
   <style:style style:name="T253" style:family="text">
-   <style:text-properties officeooo:rsid="005d6493"/>
+   <style:text-properties officeooo:rsid="00568ca6"/>
   </style:style>
   <style:style style:name="T254" style:family="text">
-   <style:text-properties officeooo:rsid="00946f92"/>
+   <style:text-properties officeooo:rsid="00b1b8d8"/>
   </style:style>
   <style:style style:name="T255" style:family="text">
-   <style:text-properties officeooo:rsid="001fa542"/>
+   <style:text-properties officeooo:rsid="005d6493"/>
   </style:style>
   <style:style style:name="T256" style:family="text">
-   <style:text-properties officeooo:rsid="00280d6b"/>
+   <style:text-properties officeooo:rsid="00946f92"/>
   </style:style>
   <style:style style:name="T257" style:family="text">
-   <style:text-properties officeooo:rsid="00858667"/>
+   <style:text-properties officeooo:rsid="001fa542"/>
   </style:style>
   <style:style style:name="T258" style:family="text">
-   <style:text-properties officeooo:rsid="00444afd"/>
+   <style:text-properties officeooo:rsid="00280d6b"/>
   </style:style>
   <style:style style:name="T259" style:family="text">
-   <style:text-properties officeooo:rsid="004ed919"/>
+   <style:text-properties officeooo:rsid="00858667"/>
   </style:style>
   <style:style style:name="T260" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="00ad83cd" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="00444afd"/>
   </style:style>
   <style:style style:name="T261" style:family="text">
-   <style:text-properties officeooo:rsid="00807667"/>
+   <style:text-properties officeooo:rsid="004ed919"/>
   </style:style>
   <style:style style:name="T262" style:family="text">
-   <style:text-properties officeooo:rsid="00661d7f"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="00ad83cd" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T263" style:family="text">
-   <style:text-properties officeooo:rsid="002bfeea"/>
+   <style:text-properties officeooo:rsid="00807667"/>
   </style:style>
   <style:style style:name="T264" style:family="text">
-   <style:text-properties officeooo:rsid="0099fd93"/>
+   <style:text-properties officeooo:rsid="00661d7f"/>
   </style:style>
   <style:style style:name="T265" style:family="text">
-   <style:text-properties officeooo:rsid="00792e99"/>
+   <style:text-properties officeooo:rsid="002bfeea"/>
   </style:style>
   <style:style style:name="T266" style:family="text">
-   <style:text-properties officeooo:rsid="007ea198"/>
+   <style:text-properties officeooo:rsid="0099fd93"/>
   </style:style>
   <style:style style:name="T267" style:family="text">
-   <style:text-properties officeooo:rsid="00a988e1"/>
+   <style:text-properties officeooo:rsid="00792e99"/>
   </style:style>
   <style:style style:name="T268" style:family="text">
+   <style:text-properties officeooo:rsid="007ea198"/>
+  </style:style>
+  <style:style style:name="T269" style:family="text">
+   <style:text-properties officeooo:rsid="00a988e1"/>
+  </style:style>
+  <style:style style:name="T270" style:family="text">
    <style:text-properties officeooo:rsid="0068eccb"/>
   </style:style>
   <style:page-layout style:name="pm1">
@@ -2101,65 +2107,65 @@
    <text:p text:style-name="P90"/>
    <text:p text:style-name="P90">Honors Theses</text:p>
    <text:p text:style-name="P91"/>
-   <text:p text:style-name="P92"><text:span text:style-name="T188">2</text:span><text:span text:style-name="T17">024-25<text:tab/>Michelle Contreras-Catalan</text:span></text:p>
+   <text:p text:style-name="P92"><text:span text:style-name="T188">2</text:span><text:span text:style-name="T17">024-25<text:tab/>Michelle Contreras-Catalan, </text:span><text:span text:style-name="T209">The HomeRun Algorithm for Binary Matrix Sampling</text:span></text:p>
    <text:p text:style-name="P92"><text:span text:style-name="T188">2</text:span><text:span text:style-name="T17">023-24<text:tab/>Hailin “Angelica” Kim, </text:span><text:span text:style-name="T53">Forecasting Nonstationary Time Series with Causal <text:tab/><text:tab/>Invariance</text:span></text:p>
-   <text:p text:style-name="P92"><text:span text:style-name="T55"><text:tab/><text:tab/></text:span><text:span text:style-name="T209">Daniel Flores-García, </text:span><text:span text:style-name="T210">Generating Afro-Cuban Drum Grooves through Data <text:tab/><text:tab/>Augmentation</text:span></text:p>
+   <text:p text:style-name="P92"><text:span text:style-name="T55"><text:tab/><text:tab/></text:span><text:span text:style-name="T210">Daniel Flores-García, </text:span><text:span text:style-name="T211">Generating Afro-Cuban Drum Grooves through Data <text:tab/><text:tab/>Augmentation</text:span></text:p>
    <text:p text:style-name="P93"><text:soft-page-break/><text:span text:style-name="T188">2</text:span><text:span text:style-name="T17">022-23<text:tab/>Shengdi Li, </text:span><text:span text:style-name="T53">The CurveBall Algorithm for Significant Pattern Mining</text:span></text:p>
    <text:p text:style-name="P94"><text:span text:style-name="T17"><text:tab/><text:tab/>Sarah Park, </text:span><text:span text:style-name="T53">Finding the True Frequent Itemsets with Hypothesis Testing</text:span></text:p>
    <text:p text:style-name="P94"><text:span text:style-name="T17"><text:tab/><text:tab/>Stefan Walzer-Goldfeld, </text:span><text:span text:style-name="T53">Mining Statistically Significant High-Utility Itemsets</text:span></text:p>
-   <text:p text:style-name="P95"><text:span text:style-name="T188">2021-22<text:tab/>Alexander Lee,</text:span><text:span text:style-name="T211"> </text:span><text:span text:style-name="T212">DiFfuSR: Distortion-free Swap-randomization for Statistically-<text:tab/><text:tab/>testing Data Mining Results </text:span><text:span text:style-name="T80">(Computer Science Prize))</text:span></text:p>
-   <text:p text:style-name="P96"><text:span text:style-name="T213"><text:tab/><text:tab/></text:span><text:span text:style-name="T214">Adam Gibbs, </text:span><text:span text:style-name="T114">Efficient Subgraph Matching with Security Applications </text:span><text:span text:style-name="T213">(not <text:tab/><text:tab/>completed)</text:span></text:p>
-   <text:p text:style-name="P97"><text:span text:style-name="T204">2020-21<text:tab/></text:span>Isaac Caruso, <text:span text:style-name="T215">Modeling Biological Species Presence with Gaussian Processes</text:span></text:p>
-   <text:p text:style-name="P98"><text:span text:style-name="T204">2019-20<text:tab/></text:span>Kathleen Isenegger, <text:span text:style-name="T215">Approximate Mining of High-Utility Itemsets throug</text:span><text:span text:style-name="T18">h <text:tab/><text:tab/><text:tab/></text:span><text:span text:style-name="T215">Sampling</text:span></text:p>
-   <text:p text:style-name="P99"><text:span text:style-name="T204"><text:tab/><text:tab/>S</text:span>hukry Zablah, <text:span text:style-name="T215">A Parallel Algorithm for Balanced Sampling </text:span><text:span text:style-name="T213">(Computer Science <text:tab/><text:tab/>Prize)</text:span></text:p>
+   <text:p text:style-name="P95"><text:span text:style-name="T188">2021-22<text:tab/>Alexander Lee,</text:span><text:span text:style-name="T212"> </text:span><text:span text:style-name="T213">DiFfuSR: Distortion-free Swap-randomization for Statistically-<text:tab/><text:tab/>testing Data Mining Results </text:span><text:span text:style-name="T80">(Computer Science Prize))</text:span></text:p>
+   <text:p text:style-name="P96"><text:span text:style-name="T214"><text:tab/><text:tab/></text:span><text:span text:style-name="T215">Adam Gibbs, </text:span><text:span text:style-name="T114">Efficient Subgraph Matching with Security Applications </text:span><text:span text:style-name="T214">(not <text:tab/><text:tab/>completed)</text:span></text:p>
+   <text:p text:style-name="P97"><text:span text:style-name="T204">2020-21<text:tab/></text:span>Isaac Caruso, <text:span text:style-name="T216">Modeling Biological Species Presence with Gaussian Processes</text:span></text:p>
+   <text:p text:style-name="P98"><text:span text:style-name="T204">2019-20<text:tab/></text:span>Kathleen Isenegger, <text:span text:style-name="T216">Approximate Mining of High-Utility Itemsets throug</text:span><text:span text:style-name="T18">h <text:tab/><text:tab/><text:tab/></text:span><text:span text:style-name="T216">Sampling</text:span></text:p>
+   <text:p text:style-name="P99"><text:span text:style-name="T204"><text:tab/><text:tab/>S</text:span>hukry Zablah, <text:span text:style-name="T216">A Parallel Algorithm for Balanced Sampling </text:span><text:span text:style-name="T214">(Computer Science <text:tab/><text:tab/>Prize)</text:span></text:p>
    <text:p text:style-name="P100"/>
-   <text:p text:style-name="P101"><text:span text:style-name="T216">Student </text:span><text:span text:style-name="T217">and Intern </text:span><text:span text:style-name="T216">Supervision </text:span><text:span text:style-name="T218">(not including T</text:span><text:span text:style-name="T217">eaching </text:span><text:span text:style-name="T218">As</text:span><text:span text:style-name="T217">sistants </text:span><text:span text:style-name="T77">and Honors Students</text:span><text:span text:style-name="T218">)</text:span></text:p>
+   <text:p text:style-name="P101"><text:span text:style-name="T217">Student </text:span><text:span text:style-name="T218">and Intern </text:span><text:span text:style-name="T217">Supervision </text:span><text:span text:style-name="T219">(not including T</text:span><text:span text:style-name="T218">eaching </text:span><text:span text:style-name="T219">As</text:span><text:span text:style-name="T218">sistants </text:span><text:span text:style-name="T77">and Honors Students</text:span><text:span text:style-name="T219">)</text:span></text:p>
    <text:p text:style-name="P102"/>
-   <text:p text:style-name="P103"><text:span text:style-name="T219">Amherst College, research assistant (alphabetical order): </text:span><text:span text:style-name="T220">Maryam Abuissa, </text:span><text:span text:style-name="T221">M</text:span><text:span text:style-name="T222">ichelle Contreras Catalan, </text:span><text:span text:style-name="T223">Daniel Flores García, </text:span><text:span text:style-name="T224">Conrad Kuklinsky, </text:span><text:span text:style-name="T225">Steedman Jenkins, </text:span><text:span text:style-name="T226">Zhiyuan Jia, </text:span><text:span text:style-name="T227">Wanting Jiang, </text:span><text:span text:style-name="T228">Hailin Kim, </text:span><text:span text:style-name="T229">Alexander Lee, </text:span><text:span text:style-name="T230">Holden Lee, </text:span><text:span text:style-name="T231">Sergei Leonov, Megan Li, </text:span><text:span text:style-name="T232">Dhyey Mavani, </text:span><text:span text:style-name="T231">Ris Paulino, </text:span><text:span text:style-name="T233">Sriyash Singhania, </text:span><text:span text:style-name="T234">Stefan Walzer-</text:span><text:span text:style-name="T235">Goldfeld, </text:span><text:span text:style-name="T236">Chloe Wohlgemuth, </text:span><text:span text:style-name="T233">Hewan Worku, Sarah Wu</text:span></text:p>
-   <text:p text:style-name="P104">Amherst College, student intern:<text:span text:style-name="T214"> </text:span><text:span text:style-name="T237">Margaret Drew, </text:span><text:span text:style-name="T238">Vaibhav Shah</text:span></text:p>
-   <text:p text:style-name="P105"><text:span text:style-name="T114">Two Sigma Investments, Labs Team, research intern:</text:span> <text:span text:style-name="T239">Cyrus Cousins</text:span></text:p>
-   <text:p text:style-name="P106"><text:span text:style-name="T114">Brown University, </text:span><text:span text:style-name="T240">research assistant:</text:span><text:span text:style-name="T241"> </text:span>Sacha Servan-Schreibe<text:span text:style-name="T241">r</text:span></text:p>
+   <text:p text:style-name="P103"><text:span text:style-name="T220">Amherst College, research assistant (alphabetical order): </text:span><text:span text:style-name="T221">Maryam Abuissa, </text:span><text:span text:style-name="T222">M</text:span><text:span text:style-name="T223">ichelle Contreras Catalan, </text:span><text:span text:style-name="T224">Daniel Flores García, </text:span><text:span text:style-name="T225">Conrad Kuklinsky, </text:span><text:span text:style-name="T226">Steedman Jenkins, </text:span><text:span text:style-name="T227">Zhiyuan Jia, </text:span><text:span text:style-name="T228">Wanting Jiang, </text:span><text:span text:style-name="T229">Hailin Kim, </text:span><text:span text:style-name="T230">Alexander Lee, </text:span><text:span text:style-name="T231">Holden Lee, </text:span><text:span text:style-name="T232">Sergei Leonov, Megan Li, </text:span><text:span text:style-name="T233">Dhyey Mavani, </text:span><text:span text:style-name="T232">Ris Paulino, </text:span><text:span text:style-name="T234">Sriyash Singhania, </text:span><text:span text:style-name="T235">Stefan Walzer-</text:span><text:span text:style-name="T236">Goldfeld, </text:span><text:span text:style-name="T237">Chloe Wohlgemuth, </text:span><text:span text:style-name="T234">Hewan Worku, Sarah Wu</text:span></text:p>
+   <text:p text:style-name="P104">Amherst College, student intern:<text:span text:style-name="T215"> </text:span><text:span text:style-name="T238">Margaret Drew, </text:span><text:span text:style-name="T239">Vaibhav Shah</text:span></text:p>
+   <text:p text:style-name="P105"><text:span text:style-name="T114">Two Sigma Investments, Labs Team, research intern:</text:span> <text:span text:style-name="T240">Cyrus Cousins</text:span></text:p>
+   <text:p text:style-name="P106"><text:span text:style-name="T114">Brown University, </text:span><text:span text:style-name="T241">research assistant:</text:span><text:span text:style-name="T242"> </text:span>Sacha Servan-Schreibe<text:span text:style-name="T242">r</text:span></text:p>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="P5">SERVICE TO THE SCIENTIFIC COMMUNITY</text:p>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="P5">Editorial Boards</text:p>
    <text:p text:style-name="P5"/>
-   <text:p text:style-name="P107">Data Mining and Knowledge Discovery <text:span text:style-name="T242">(Action Editor), </text:span><text:span text:style-name="T243">20</text:span><text:span text:style-name="T244">21</text:span><text:span text:style-name="T243">– </text:span><text:span text:style-name="T244">2024</text:span></text:p>
-   <text:p text:style-name="P107"><text:span text:style-name="T245">Machine Learning </text:span>(Guest editorial board for ECML PKDD <text:span text:style-name="T197">‘</text:span>19<text:span text:style-name="T243">– </text:span><text:span text:style-name="T197">‘</text:span><text:span text:style-name="T190">2</text:span><text:span text:style-name="T243">5</text:span>)</text:p>
+   <text:p text:style-name="P107">Data Mining and Knowledge Discovery <text:span text:style-name="T243">(Action Editor), </text:span><text:span text:style-name="T244">20</text:span><text:span text:style-name="T245">21</text:span><text:span text:style-name="T244">– </text:span><text:span text:style-name="T245">2024</text:span></text:p>
+   <text:p text:style-name="P107"><text:span text:style-name="T246">Machine Learning </text:span>(Guest editorial board for ECML PKDD <text:span text:style-name="T197">‘</text:span>19<text:span text:style-name="T244">– </text:span><text:span text:style-name="T197">‘</text:span><text:span text:style-name="T190">2</text:span><text:span text:style-name="T244">5</text:span>)</text:p>
    <text:p text:style-name="P108">Very Large Database Journal (VLDBJ), 2025 – Current</text:p>
    <text:p text:style-name="P109"><text:soft-page-break/></text:p>
    <text:p text:style-name="P5">Organizing Committees</text:p>
    <text:p text:style-name="P110"/>
-   <text:p text:style-name="P111">SIAM SDM <text:span text:style-name="T246">‘</text:span><text:span text:style-name="T247">2</text:span><text:span text:style-name="T243">6</text:span> (General Co-Chair)</text:p>
-   <text:p text:style-name="P112">SIAM SDM <text:span text:style-name="T246">‘</text:span><text:span text:style-name="T247">2</text:span>5 (General Co-Chair)</text:p>
-   <text:p text:style-name="P112">ACM CIKM <text:span text:style-name="T246">‘</text:span><text:span text:style-name="T247">2</text:span>5 (Tutorials Chair)</text:p>
+   <text:p text:style-name="P111">SIAM SDM <text:span text:style-name="T247">‘</text:span><text:span text:style-name="T248">2</text:span><text:span text:style-name="T244">6</text:span> (General Co-Chair)</text:p>
+   <text:p text:style-name="P112">SIAM SDM <text:span text:style-name="T247">‘</text:span><text:span text:style-name="T248">2</text:span>5 (General Co-Chair)</text:p>
+   <text:p text:style-name="P112">ACM CIKM <text:span text:style-name="T247">‘</text:span><text:span text:style-name="T248">2</text:span>5 (Tutorials Chair)</text:p>
    <text:p text:style-name="P113">Statistical and Probabilistic Methods in Algorithmic Data Analysis (Dagsthul, Germany, September 2024) (Co-Organizer)</text:p>
-   <text:p text:style-name="P114">ACM KDD <text:span text:style-name="T246">‘</text:span><text:span text:style-name="T247">2</text:span><text:span text:style-name="T248">4 </text:span><text:span text:style-name="T247">(</text:span>PhD<text:span text:style-name="T247"> </text:span>Consortium<text:span text:style-name="T247"> Co-Chair)</text:span></text:p>
-   <text:p text:style-name="P115">SIAM SDM <text:span text:style-name="T246">‘</text:span><text:span text:style-name="T247">2</text:span>4 (Blue-sky-ideas Track Program Chair)</text:p>
-   <text:p text:style-name="P116">ECML PKDD <text:span text:style-name="T246">‘</text:span>23 (Doctoral Forum Co-Chair)</text:p>
-   <text:p text:style-name="P117">SIAM SDM <text:span text:style-name="T246">‘</text:span>22 (Program Committee <text:span text:style-name="T249">Co-</text:span>Chair)</text:p>
+   <text:p text:style-name="P114">ACM KDD <text:span text:style-name="T247">‘</text:span><text:span text:style-name="T248">2</text:span><text:span text:style-name="T249">4 </text:span><text:span text:style-name="T248">(</text:span>PhD<text:span text:style-name="T248"> </text:span>Consortium<text:span text:style-name="T248"> Co-Chair)</text:span></text:p>
+   <text:p text:style-name="P115">SIAM SDM <text:span text:style-name="T247">‘</text:span><text:span text:style-name="T248">2</text:span>4 (Blue-sky-ideas Track Program Chair)</text:p>
+   <text:p text:style-name="P116">ECML PKDD <text:span text:style-name="T247">‘</text:span>23 (Doctoral Forum Co-Chair)</text:p>
+   <text:p text:style-name="P117">SIAM SDM <text:span text:style-name="T247">‘</text:span>22 (Program Committee <text:span text:style-name="T250">Co-</text:span>Chair)</text:p>
    <text:p text:style-name="P118">SIAM SDM ‘<text:span text:style-name="T197">2</text:span>1 (Tutorial Chair)</text:p>
    <text:p text:style-name="P119">SIAM SDM ‘<text:span text:style-name="T197">20</text:span>, ‘<text:span text:style-name="T197">19</text:span> (Doctoral Forum Co-chair)</text:p>
-   <text:p text:style-name="P120">SIAM SDM <text:span text:style-name="T246">‘</text:span>18 (Sponsorship Co-chair)</text:p>
+   <text:p text:style-name="P120">SIAM SDM <text:span text:style-name="T247">‘</text:span>18 (Sponsorship Co-chair)</text:p>
    <text:p text:style-name="P119">Foundations of Learning from Data Workshop (Bertinoro, Italy, September 2018)(Co-Organizer)</text:p>
    <text:p text:style-name="P121"/>
    <text:p text:style-name="P5">Program Committees</text:p>
    <text:p text:style-name="normal"/>
-   <text:p text:style-name="P122">AAAI ‘<text:span text:style-name="T250">23-</text:span>‘<text:span text:style-name="T197">2</text:span><text:span text:style-name="T205">4</text:span><text:span text:style-name="T251"> (Senior PC), </text:span>‘<text:span text:style-name="T197">19-‘</text:span><text:span text:style-name="T250">20</text:span></text:p>
-   <text:p text:style-name="P122">ACM CIKM ‘<text:span text:style-name="T197">2</text:span><text:span text:style-name="T205">4</text:span><text:span text:style-name="T251"> (Senior PC), ‘</text:span><text:span text:style-name="T250">14-</text:span>‘<text:span text:style-name="T252">21</text:span></text:p>
-   <text:p text:style-name="P122">ACM KDD ‘<text:span text:style-name="T250">21-</text:span>‘<text:span text:style-name="T252">2</text:span><text:span text:style-name="T250">5</text:span><text:span text:style-name="T252"> (</text:span><text:span text:style-name="T250">Senior PC / </text:span><text:span text:style-name="T190">Area Chair</text:span><text:span text:style-name="T252">), </text:span>‘15-‘<text:span text:style-name="T250">20</text:span></text:p>
-   <text:p text:style-name="P122">ACM WSDM ‘<text:span text:style-name="T75">2</text:span><text:span text:style-name="T250">2-‘</text:span><text:span text:style-name="T75">2</text:span><text:span text:style-name="T250">5</text:span><text:span text:style-name="T75"> (Senior PC), ‘</text:span>17-‘<text:span text:style-name="T250">21</text:span></text:p>
-   <text:p text:style-name="P122">ECML PKDD ‘<text:span text:style-name="T250">16-</text:span>‘<text:span text:style-name="T75">2</text:span><text:span text:style-name="T190">4</text:span></text:p>
+   <text:p text:style-name="P122">AAAI ‘<text:span text:style-name="T251">23-</text:span>‘<text:span text:style-name="T197">2</text:span><text:span text:style-name="T205">4</text:span><text:span text:style-name="T252"> (Senior PC), </text:span>‘<text:span text:style-name="T197">19-‘</text:span><text:span text:style-name="T251">20</text:span></text:p>
+   <text:p text:style-name="P122">ACM CIKM ‘<text:span text:style-name="T197">2</text:span><text:span text:style-name="T205">4</text:span><text:span text:style-name="T252"> (Senior PC), ‘</text:span><text:span text:style-name="T251">14-</text:span>‘<text:span text:style-name="T253">21</text:span></text:p>
+   <text:p text:style-name="P122">ACM KDD ‘<text:span text:style-name="T251">21-</text:span>‘<text:span text:style-name="T253">2</text:span><text:span text:style-name="T251">5</text:span><text:span text:style-name="T253"> (</text:span><text:span text:style-name="T251">Senior PC / </text:span><text:span text:style-name="T190">Area Chair</text:span><text:span text:style-name="T253">), </text:span>‘15-‘<text:span text:style-name="T251">20</text:span></text:p>
+   <text:p text:style-name="P122">ACM WSDM ‘<text:span text:style-name="T75">2</text:span><text:span text:style-name="T251">2-‘</text:span><text:span text:style-name="T75">2</text:span><text:span text:style-name="T251">5</text:span><text:span text:style-name="T75"> (Senior PC), ‘</text:span>17-‘<text:span text:style-name="T251">21</text:span></text:p>
+   <text:p text:style-name="P122">ECML PKDD ‘<text:span text:style-name="T251">16-</text:span>‘<text:span text:style-name="T75">2</text:span><text:span text:style-name="T254">5</text:span></text:p>
    <text:p text:style-name="P123">Grace Hopper ‘18, ‘16</text:p>
    <text:p text:style-name="P123">ICML ‘19</text:p>
    <text:p text:style-name="P122">IEEE ICDE ‘17-‘18</text:p>
-   <text:p text:style-name="P122">IEEE ICDM ‘<text:span text:style-name="T199">2</text:span><text:span text:style-name="T253">1 (Area Chair), </text:span>‘1<text:span text:style-name="T250">6-</text:span>‘<text:span text:style-name="T75">2</text:span><text:span text:style-name="T254">3</text:span></text:p>
-   <text:p text:style-name="P124"><text:span text:style-name="T255">IJCAI</text:span> ‘19</text:p>
+   <text:p text:style-name="P122">IEEE ICDM ‘<text:span text:style-name="T199">2</text:span><text:span text:style-name="T255">1 (Area Chair), </text:span>‘1<text:span text:style-name="T251">6-</text:span>‘<text:span text:style-name="T75">2</text:span><text:span text:style-name="T256">3</text:span></text:p>
+   <text:p text:style-name="P124"><text:span text:style-name="T257">IJCAI</text:span> ‘19</text:p>
    <text:p text:style-name="P125">NetSci ‘19-‘<text:span text:style-name="T199">20</text:span></text:p>
-   <text:p text:style-name="P122"><text:span text:style-name="T255">Ne</text:span><text:span text:style-name="T256">urIPS</text:span><text:span text:style-name="T255"> ‘</text:span><text:span text:style-name="T250">19-</text:span><text:span text:style-name="T255">‘</text:span><text:span text:style-name="T75">2</text:span><text:span text:style-name="T250">4</text:span></text:p>
-   <text:p text:style-name="P126"><text:soft-page-break/>SIAM SDM ‘<text:span text:style-name="T199">21-</text:span>‘<text:span text:style-name="T75">2</text:span><text:span text:style-name="T205">4</text:span><text:span text:style-name="T251"> (Senior PC), </text:span>‘19-‘<text:span text:style-name="T241">20</text:span></text:p>
-   <text:p text:style-name="P126">WWW ‘<text:span text:style-name="T199">2</text:span><text:span text:style-name="T241">1</text:span><text:span text:style-name="T257">-</text:span>‘<text:span text:style-name="T199">2</text:span><text:span text:style-name="T257">3</text:span><text:span text:style-name="T199"> (Senior PC)</text:span>, ‘16-‘<text:span text:style-name="T241">20</text:span></text:p>
+   <text:p text:style-name="P122"><text:span text:style-name="T257">Ne</text:span><text:span text:style-name="T258">urIPS</text:span><text:span text:style-name="T257"> ‘</text:span><text:span text:style-name="T251">19-</text:span><text:span text:style-name="T257">‘</text:span><text:span text:style-name="T75">2</text:span><text:span text:style-name="T254">5</text:span></text:p>
+   <text:p text:style-name="P126"><text:soft-page-break/>SIAM SDM ‘<text:span text:style-name="T199">21-</text:span>‘<text:span text:style-name="T75">2</text:span><text:span text:style-name="T254">5</text:span><text:span text:style-name="T252"> (Senior PC), </text:span>‘19-‘<text:span text:style-name="T242">20</text:span></text:p>
+   <text:p text:style-name="P126">WWW ‘<text:span text:style-name="T199">2</text:span><text:span text:style-name="T242">1</text:span><text:span text:style-name="T259">-</text:span>‘<text:span text:style-name="T199">2</text:span><text:span text:style-name="T259">3</text:span><text:span text:style-name="T199"> (Senior PC)</text:span>, ‘16-‘<text:span text:style-name="T242">20</text:span></text:p>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="P5">Journal Reviewing</text:p>
    <text:p text:style-name="normal"/>
@@ -2175,37 +2181,37 @@
    <text:p text:style-name="P6"><text:span text:style-name="T111">Journal of Parallel and Distributed Computing</text:span> (JPDC)</text:p>
    <text:p text:style-name="P6"><text:span text:style-name="T114">Knowledge and Information Systems</text:span> (KAIS)</text:p>
    <text:p text:style-name="P130">IEEE Access</text:p>
-   <text:p text:style-name="P131">IEEE Open Access Journal of the Computer Society <text:span text:style-name="T214">(OJCS)</text:span></text:p>
+   <text:p text:style-name="P131">IEEE Open Access Journal of the Computer Society <text:span text:style-name="T215">(OJCS)</text:span></text:p>
    <text:p text:style-name="P6"><text:span text:style-name="T114">IEEE Transactions on Knowledge and Data Engineering</text:span> (TKDE)</text:p>
    <text:p text:style-name="P6"><text:span text:style-name="T114">IEEE Transactions on Network Science and Engineering</text:span> (TNSE)</text:p>
    <text:p text:style-name="P6"><text:span text:style-name="T114">IEEE Transactions on Parallel and Distributed Systems</text:span> (TPDS)</text:p>
    <text:p text:style-name="P6"><text:span text:style-name="T114">IEEE Transactions on Services Computing</text:span> (TSC)</text:p>
-   <text:p text:style-name="P132">Information Science <text:span text:style-name="T214">(INS)</text:span></text:p>
+   <text:p text:style-name="P132">Information Science <text:span text:style-name="T215">(INS)</text:span></text:p>
    <text:p text:style-name="P6"><text:span text:style-name="T114">Machine Learning</text:span> (Mach. Learn.)</text:p>
    <text:p text:style-name="P133">PeerJ Computer Science</text:p>
    <text:p text:style-name="P134">PLOS ONE</text:p>
    <text:p text:style-name="P135">The Computer Journal</text:p>
    <text:p text:style-name="P6"><text:span text:style-name="T114">VLDB Journal</text:span> (VLDBJ)</text:p>
-   <text:p text:style-name="P136">The World Wide Web Journal <text:span text:style-name="T214">(WWWJ)</text:span></text:p>
+   <text:p text:style-name="P136">The World Wide Web Journal <text:span text:style-name="T215">(WWWJ)</text:span></text:p>
    <text:p text:style-name="normal"/>
-   <text:p text:style-name="P5"><text:span text:style-name="T241">Additional </text:span>Conference Reviewing </text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T242">Additional </text:span>Conference Reviewing </text:p>
    <text:p text:style-name="P121"><text:soft-page-break/>The list does not include reviews done as Program Committee member</text:p>
    <text:p text:style-name="normal"/>
-   <text:p text:style-name="P137"><text:span text:style-name="T258">LATIN‘20, STACS‘20, </text:span>MFCS‘17, SODA’17, ISAAC‘15, SIAM SDM‘15, IEEE ICDE‘15, DISC‘14, ACM WSDM‘14, WWW‘14, ICALP‘14, IEEE BigData‘13, MFCS‘13, ACM WSDM‘13, IEEE IPDPS‘12, ACM ICS‘12, RANDOM‘11</text:p>
+   <text:p text:style-name="P137"><text:span text:style-name="T260">LATIN‘20, STACS‘20, </text:span>MFCS‘17, SODA’17, ISAAC‘15, SIAM SDM‘15, IEEE ICDE‘15, DISC‘14, ACM WSDM‘14, WWW‘14, ICALP‘14, IEEE BigData‘13, MFCS‘13, ACM WSDM‘13, IEEE IPDPS‘12, ACM ICS‘12, RANDOM‘11</text:p>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="P5">Conference Research Session Chair</text:p>
    <text:p text:style-name="normal"/>
-   <text:p text:style-name="P126"><text:span text:style-name="T241">ACM KDD</text:span><text:span text:style-name="T205"> </text:span><text:span text:style-name="T259">‘</text:span><text:span text:style-name="T251">2</text:span><text:span text:style-name="T241">4 </text:span><text:span text:style-name="T251">– </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T17">Probabilistic &amp; Statistical </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T260">M</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T17">ethods</text:span></text:span></text:p>
-   <text:p text:style-name="P138">ACM KDD <text:span text:style-name="T259">‘</text:span><text:span text:style-name="T251">2</text:span>3<text:span text:style-name="T251"> – </text:span>Graph Mining I</text:p>
-   <text:p text:style-name="P139"><text:span text:style-name="T261">SIAM MDS </text:span><text:span text:style-name="T259">‘</text:span><text:span text:style-name="T251">22 – </text:span><text:span text:style-name="T261">Algorithms</text:span></text:p>
-   <text:p text:style-name="P139"><text:span text:style-name="T251">ACM KDD </text:span><text:span text:style-name="T259">‘</text:span><text:span text:style-name="T251">22 – Classification and Clustering</text:span></text:p>
-   <text:p text:style-name="P140">ACM WSDM <text:span text:style-name="T259">‘2</text:span>2<text:span text:style-name="T259"> – </text:span>Web Search</text:p>
-   <text:p text:style-name="P141">ACM KDD ‘2<text:span text:style-name="T262">1</text:span> – <text:span text:style-name="T262">Theory: Learning and Generalization</text:span></text:p>
-   <text:p text:style-name="P142"><text:span text:style-name="T261">SIAM </text:span>SDM <text:span text:style-name="T263">‘</text:span>21<text:span text:style-name="T263"> – </text:span>Foundations II</text:p>
+   <text:p text:style-name="P126"><text:span text:style-name="T242">ACM KDD</text:span><text:span text:style-name="T205"> </text:span><text:span text:style-name="T261">‘</text:span><text:span text:style-name="T252">2</text:span><text:span text:style-name="T242">4 </text:span><text:span text:style-name="T252">– </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T17">Probabilistic &amp; Statistical </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T262">M</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T17">ethods</text:span></text:span></text:p>
+   <text:p text:style-name="P138">ACM KDD <text:span text:style-name="T261">‘</text:span><text:span text:style-name="T252">2</text:span>3<text:span text:style-name="T252"> – </text:span>Graph Mining I</text:p>
+   <text:p text:style-name="P139"><text:span text:style-name="T263">SIAM MDS </text:span><text:span text:style-name="T261">‘</text:span><text:span text:style-name="T252">22 – </text:span><text:span text:style-name="T263">Algorithms</text:span></text:p>
+   <text:p text:style-name="P139"><text:span text:style-name="T252">ACM KDD </text:span><text:span text:style-name="T261">‘</text:span><text:span text:style-name="T252">22 – Classification and Clustering</text:span></text:p>
+   <text:p text:style-name="P140">ACM WSDM <text:span text:style-name="T261">‘2</text:span>2<text:span text:style-name="T261"> – </text:span>Web Search</text:p>
+   <text:p text:style-name="P141">ACM KDD ‘2<text:span text:style-name="T264">1</text:span> – <text:span text:style-name="T264">Theory: Learning and Generalization</text:span></text:p>
+   <text:p text:style-name="P142"><text:span text:style-name="T263">SIAM </text:span>SDM <text:span text:style-name="T265">‘</text:span>21<text:span text:style-name="T265"> – </text:span>Foundations II</text:p>
    <text:p text:style-name="P143">IEEE ICDM ‘20 – Graph Mining II</text:p>
    <text:p text:style-name="P144">ACM KDD ‘20 – Data Mining Methods</text:p>
    <text:p text:style-name="P145">WWW’20 – Social Network Analysis III</text:p>
-   <text:p text:style-name="P146"><text:span text:style-name="T261">SIAM </text:span>SDM ‘19 – Patterns</text:p>
+   <text:p text:style-name="P146"><text:span text:style-name="T263">SIAM </text:span>SDM ‘19 – Patterns</text:p>
    <text:p text:style-name="P123">ACM KDD ‘18 – Unsupervised Learning II</text:p>
    <text:p text:style-name="P123">ACM KDD ‘17 – Graphs I</text:p>
    <text:p text:style-name="P123">ACM KDD ‘16 – Graphs I</text:p>
@@ -2216,18 +2222,18 @@
    <text:p text:style-name="normal"/>
    <text:p text:style-name="P5">Grant Reviewing</text:p>
    <text:p text:style-name="normal"/>
-   <text:p text:style-name="P123">NSF <text:span text:style-name="T264">Panelist 2017, 2023</text:span></text:p>
+   <text:p text:style-name="P123">NSF <text:span text:style-name="T266">Panelist 2017, 2023</text:span></text:p>
    <text:p text:style-name="P123">Sigma Delta Epsilon (Graduate Women in Science) National Fellowship</text:p>
    <text:p text:style-name="P123">Grace Hopper Conference Scholarship 2016, 2017</text:p>
    <text:p text:style-name="normal"><text:soft-page-break/></text:p>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="P5">DEPARTMENTAL / UNIVERSITY SERVICE</text:p>
    <text:p text:style-name="P148"/>
-   <text:p text:style-name="P149">Data Science Initiative, Amherst College <text:span text:style-name="T265">– </text:span>Inaugural Director, 1/2024 <text:span text:style-name="T265">– </text:span>Ongoing</text:p>
-   <text:p text:style-name="P150">Amherst College Association for Computing Machinery (ACM) Student Chapter – Sponsoring Faculty, <text:span text:style-name="T251">10/2019 – </text:span><text:span text:style-name="T266">O</text:span><text:span text:style-name="T251">ngoing</text:span></text:p>
-   <text:p text:style-name="P151">Faculty Committee on Student Fellowships, Amherst <text:span text:style-name="T267">C</text:span>ollege – Faculty Representative, 7/2022 – <text:span text:style-name="T243">6/2024</text:span></text:p>
-   <text:p text:style-name="P152">Data Science Initiative Working Group, Amherst College – Dept. Representative, 1/201<text:span text:style-name="T268">9</text:span> – <text:span text:style-name="T243">1/24</text:span></text:p>
-   <text:p text:style-name="P153">Untenured Faculty Consultative Group, <text:span text:style-name="T268">Amherst College – Faculty Representative, 10/2021 – </text:span><text:span text:style-name="T265">6/2022</text:span></text:p>
+   <text:p text:style-name="P149">Data Science Initiative, Amherst College <text:span text:style-name="T267">– </text:span>Inaugural Director, 1/2024 <text:span text:style-name="T267">– </text:span>Ongoing</text:p>
+   <text:p text:style-name="P150">Amherst College Association for Computing Machinery (ACM) Student Chapter – Sponsoring Faculty, <text:span text:style-name="T252">10/2019 – </text:span><text:span text:style-name="T268">O</text:span><text:span text:style-name="T252">ngoing</text:span></text:p>
+   <text:p text:style-name="P151">Faculty Committee on Student Fellowships, Amherst <text:span text:style-name="T269">C</text:span>ollege – Faculty Representative, 7/2022 – <text:span text:style-name="T244">6/2024</text:span></text:p>
+   <text:p text:style-name="P152">Data Science Initiative Working Group, Amherst College – Dept. Representative, 1/201<text:span text:style-name="T270">9</text:span> – <text:span text:style-name="T244">1/24</text:span></text:p>
+   <text:p text:style-name="P153">Untenured Faculty Consultative Group, <text:span text:style-name="T270">Amherst College – Faculty Representative, 10/2021 – </text:span><text:span text:style-name="T267">6/2022</text:span></text:p>
    <text:p text:style-name="P154">Graduate Student Council, Brown University – President, 4/2011 – 12/2012</text:p>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="normal"/>
@@ -2250,7 +2256,7 @@
    <text:p text:style-name="normal"><text:tab/>SIAM Activity Group on Data <text:span text:style-name="T8">Science</text:span> (SIAG/<text:span text:style-name="T190">DS</text:span>)</text:p>
    <text:p text:style-name="normal"/>
    <text:p text:style-name="normal">The latest revision of this CV is available from http<text:span text:style-name="T8">s</text:span>://matteo.rionda.to/MatteoRiondato-CV.pdf</text:p>
-   <text:p text:style-name="normal">This revision was created on <text:time style:data-style-name="N10041" text:time-value="2025-02-18T07:07:24.777846545">February 18, 2025</text:time></text:p>
+   <text:p text:style-name="normal">This revision was created on <text:time style:data-style-name="N10041" text:time-value="2025-02-18T07:25:05.571068683">February 18, 2025</text:time></text:p>
   </office:text>
  </office:body>
 </office:document>
