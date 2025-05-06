@@ -3,6 +3,6 @@ College, and a visiting faculty at Brown University. Previously, he was a
 research scientist at Two Sigma, and a postdoc at Stanford. His research focuses
 on algorithms for knowledge discovery, data mining, and machine learning: he
 develops methods to analyze rich datasets, including graphs and time series, as
-fast as possible and in a statistically sound way. He received the NSF CAREER
+fast as possible and in a statistically sound way. He received an NSF CAREER
 award in 2023, and the 2025 SDM/IBM Early Career Data Mining Research Award. His
 works were recognized with best-of-conference at multiple data mining venues.
